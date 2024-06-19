@@ -1,0 +1,54 @@
+[33mcommit d8dfa5689e67e5ee31f0e71307f2f11e4725926b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33msession1[m[33m)[m
+Author: Vladislav <123@gmail.com>
+Date:   Wed Jun 19 09:53:37 2024 +0300
+
+    1-4 pursuit
+
+[33mcommit 469b1f5f9836a51313be8f7723680b018bbb1824[m
+Merge: 7ee5613 10b68a2
+Author: Vladislav <123@gmail.com>
+Date:   Wed Jun 19 09:47:36 2024 +0300
+
+    fix conflict
+
+[33mcommit 7ee561379f19020007742950abb2a354ef22ecae[m
+Author: Vladislav <123@gmail.com>
+Date:   Wed Jun 19 09:46:04 2024 +0300
+
+    3-4 str
+
+[33mcommit 10b68a2beeb7ea49296ce8e12975563b016fe89f[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Vladislav <123@gmail.com>
+Date:   Wed Jun 19 09:45:12 2024 +0300
+
+    1-2 str
+
+[33mcommit 6569d01f6ad6113f1a90861937a03b8b80c91ee6[m
+Author: Vladislav <123@gmail.com>
+Date:   Wed Jun 19 09:43:38 2024 +0300
+
+    add arrows.txt
+
+[33mcommit 893a8bd2da74192dd92e7a1a8318e2a43deae775[m
+Author: Vladislav <123@gmail.com>
+Date:   Wed Jun 19 09:41:51 2024 +0300
+
+    second commit
+
+[33mcommit bd01fa130d034fa0ece2841c281e71e181fd61d6[m
+Author: Vladislav <123@gmail.com>
+Date:   Wed Jun 19 09:39:45 2024 +0300
+
+    first&second commit
+
+[33mcommit 27af61cdea361d8943286c858d25453a2e880a2a[m
+Author: Vvvmmp <144491393+Vvvmmp@users.noreply.github.com>
+Date:   Wed Jun 19 09:26:04 2024 +0300
+
+    add two more lines to the song
+
+[33mcommit b35d4487fdd29c358671009d8c931c0e7395feae[m
+Author: Vladislav <123@gmail.com>
+Date:   Wed Jun 19 09:17:38 2024 +0300
+
+    add first two lines in the song
